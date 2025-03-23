@@ -30,9 +30,9 @@
 
 Doute raisonnable: Le doute raisonnable pour fouiller une personne veut dire que la police doit avoir des raisons claires de penser qu'elle est liée à un crime. Ces raisons doivent être basées sur des faits, pas sur des suppositions.
 
-2.2) Pièces d’identités : Les lois de San Andreas n'exigent pas que les citoyens portent sur eux leurs pièces d'identités. Par contre, ils sont dans l’obligation de s’identifier lorsque la loi l’exige.
+2.2) Pièces d’identités : Les lois d'Uprising n'exigent pas que les citoyens portent sur eux leurs pièces d'identités. Par contre, ils sont dans l’obligation de s’identifier lorsque la loi l’exige.
 
-2.3) Dans le cas échéant ou le citoyen ne serait pas en possession de ses pièces d’identités, le poste de police dispose d’un système d’identification biométrique hautement performant. En quelques secondes, ils peuvent vous identifier avec les informations qui leur ont été fournies lors de votre passage à la douane de San Andreas.
+2.3) Dans le cas échéant ou le citoyen ne serait pas en possession de ses pièces d’identités, le poste de police dispose d’un système d’identification biométrique hautement performant. En quelques secondes, ils peuvent vous identifier avec les informations qui leur ont été fournies lors de votre passage à l'immigration d'Uprising.
 
 #### **Article 3 - Arrestation**
 
@@ -44,15 +44,7 @@ Doute raisonnable: Le doute raisonnable pour fouiller une personne veut dire que
 
 3.4) Lorsqu’un policier vous met en état d'arrestation, il doit dire clairement “Vous êtes en état d’arrestation”.
 
-3.5) Lorsque vous êtes en état d'arrestation vous serez automatiquement fouillé (sac, poches, voiture, etc.) et tout ce qui est en votre possession et qui est illégal vous sera saisi. Les moyens de communication seront aussi saisis. Les objets saisis pourraient mener à des accusations additionnelles. Le terme illégal comprend:
-
-- Drogue
--  Argent (Dans le cas où le crime commit est en lien direct avec un gain financier tel que braquage, vente de drogue, etc)
--   Arme(s) illégale(s)
-
-PS: Un policier a la possibilité de fouiller une personne inconsciente qui est en état d’arrestation afin de neutraliser une potentielle menace et de saisir les armes ou tout autre objet illégal.
-
-3.6) Lors d’une incarcération pour un crime violent, les agents de la paix procèdent à une prise d’ADN.
+3.5) Lors d’une incarcération pour un crime violent, les agents de la paix procèdent à une prise d’ADN.
 
 
 #### **Article 4 - Fouille**
@@ -65,13 +57,17 @@ PS: Un policier a la possibilité de fouiller une personne inconsciente qui est 
 
 4.2) Les objets illégaux saisis lors de fouilles ne seront pas rendus car ils servent d'éléments de preuves dans votre arrestation. Dans le cas d'un vice de procédure, les objets illégaux sont tout de même saisi.
 
-4.3) Les policiers saisissent les objets illégaux ainsi que toutes vos possessions sauf vos papiers d’identification, les bandages et la nourriture.
+4.3) Lorsque vous êtes en état d'arrestation vous serez automatiquement fouillé (sac, poches, voiture, etc.) et tout ce qui est en votre possession et qui est illégal vous sera saisi. Les moyens de communication seront aussi saisis. Les objets saisis pourraient mener à des accusations additionnelles. Le terme illégal comprend:
 
-4.4) Les objets suivants sont considérés comme illégaux: Drogues, Armes à feu autre que ceux cité au point 1.1), Medkit (sauf EMS), Espèces protégées, Lockpick.
+- Drogue
+- Argent (Dans le cas où le crime commit est en lien direct avec un gain financier tel que braquage, vente de drogue, etc)
+- Arme(s) illégale(s)
 
-4.5) Un policier doit avertir la personne quand il doit procéder à une fouille, sauf si celle-ci est inconsciente.
+PS: Un policier a la possibilité de fouiller une personne inconsciente qui est en état d’arrestation afin de neutraliser une potentielle menace et de saisir les armes ou tout autre objet illégal.
 
-4.6) Qu’entend-on par motifs raisonnables?
+4.4) Un policier doit avertir la personne quand il doit procéder à une fouille, sauf si celle-ci est inconsciente.
+
+4.5) Qu’entend-on par motifs raisonnables?
 
 Cela signifie que des circonstances suspectes ou une intuition ne suffisent pas. Pour qu’il y ait motifs raisonnables, il faut qu’il y ait une certaine « probabilité fondée sur la crédibilité » ou, en d’autres termes, un certain fondement factuel à la conviction personnelle. Cela signifie que la personne qui procède à l’arrestation doit être en mesure d’expliquer ses actes au tribunal, par exemple qu’elle a obtenu un renseignement d’une source fiable ou qu’elle a observé quelque chose. Elle doit pouvoir appuyer subjectivement sa conviction que le suspect a commis un acte criminel. De plus, les faits doivent être tels qu’ils inciteraient une personne raisonnable dans la situation de la personne qui a procédé à l’arrestation à considérer ou à être honnêtement persuadée que le suspect a probablement commis une infraction. Mais il n’est pas nécessaire que cela aille jusqu’à une preuve prima facie.
 
@@ -103,7 +99,7 @@ Cela signifie que des circonstances suspectes ou une intuition ne suffisent pas.
 
 6.1) Le temps de prison commence suite à l'arrivé à la prison fédérale ou à l'incarcération officiel au poste de police.
 
-6.2) Un citoyen peut faire son temps de prison au poste de police si celui-ci à 30 mois ou moins à faire.
+6.2) Un citoyen peut choisir de faire son temps de prison au poste de police si celui-ci à 30 mois ou moins à faire.
 
 6.3) Prison Fédérale
 
@@ -111,7 +107,7 @@ Cela signifie que des circonstances suspectes ou une intuition ne suffisent pas.
 - Les agents de police sont habilités à faire le convoi vers la prison fédérale si les gardiens de la prison ne sont pas disponibles.
 - Une personne peut être apportée en prison fédérale si les cellules du poste sont pleines.
 
-6.4) Peu importe le nombre d’avis de recherche, le temps d’incarcération sera comptabilisé pour un maximum de 200 minutes.
+6.4) Peu importe le nombre d’avis de recherche, le temps d’incarcération sera comptabilisé pour un maximum de 60 minutes.
 
 Prendre note que si les avocats ne sont pas présents, le suspect sera jugé comme s’il se représentait seul donc obtenir de 0% à 25%.
 
@@ -119,7 +115,7 @@ Une déduction de 15 mois avant négociation est automatiquement applicable si l
 
 6.5) Libération pour vice de procédure (Les vices de procédure sont les suivants)
 
-- Ne pas faire prendre connaissance ou faire respecter les droits du citoyen (loi Miranda).
+- Ne pas faire prendre connaissance ou faire respecter les droits du citoyen (loi Miranda) lors de l'arrestation ou de la détention provisoire.
 - Abus policier face au code de déontologie policière.
 - Écoute et utilisation des conversations entre l’avocat et son client.
 - Ne pas donner le motif initial de l’arrestation.
@@ -134,7 +130,7 @@ Le délai maximum pour contester une arrestation ou une amende auprès de la pol
 
 #### **Article 7 - Avocat** 
 
-7.1) Lorsqu'un citoyen est prêt a payer un avocat de sa poche, la réduction de sentence et/ou amende se situe entre 25% et 50%.
+7.1) Lorsqu'un citoyen est représenté par avocat, la réduction de sentence et/ou amende se situe entre 25% et 50%.
 
 7.2) Un citoyen détenu peut se représenter seul si aucun avocat n'est disponible et peut négocier sa peine peut obtenir une réduction de sentence et/ou amende qui se situe entre 0% et 25%.
 
@@ -146,12 +142,12 @@ Note: Une réduction supérieure pourrait être accordé dans le cas où le susp
 
 7.5) Toute personne voulant porter le titre officiel d'avocat/bâtonnier, doit préalablement détenir son numéro de référence du barreau. (Donné par l'association des avocats)
 
-7.6) Tout avocat en ville doit être membre de l'Association des avocats de San Andreas pour pratiquer le droit sous toutes ses formes.
+7.6) Tout avocat en ville doit être membre de l'Association des avocats d'Uprising pour pratiquer le droit sous toutes ses formes.
 
 7.7) Un avocat peut perdre son droit de pratique si;
 
 - Détient un casier judiciaire actif
-- C'est fait révoqué son droit par l'Association des avocats de San Andreas.
+- C'est fait révoqué son droit par l'Association des avocats d'Uprising.
 
 
 #### **Article 8 - Mandat**
@@ -172,18 +168,13 @@ Pour l’obtention du mandat de perquisition les éléments suivants sont néces
 - Les preuves valides à l’appui.
 - Le motif de la perquisition (Le contenu et objets visés durant la perquisition).
 
-8.4) Les policiers peuvent pénétrer chez vous sans mandat ni permission pour arrêter quelqu'un ou mettre quelqu'un sous garde à vue, lorsqu'ils ont des motifs raisonnables de croire que, selon le cas :
+8.4) Les policiers peuvent pénétrer sur une propriété privée sans mandat ni permission pour arrêter quelqu'un ou mettre quelqu'un sous garde à vue, lorsqu'ils ont des motifs raisonnables de croire que, selon le cas :
 
 - Ils doivent entrer afin d'empêcher qu'une personne, qui est dans les lieux, soit blessée gravement ou tuée.
 - Votre demeure contient des éléments de preuve se rapportant à une infraction grave, et les policiers doivent trouver ces éléments immédiatement, sans quoi ces éléments risquent d'être perdus ou détruits.
 - Les policiers peuvent aussi entrer chez vous sans mandat ni permission s'ils se trouvent en situation de poursuite immédiate d'une personne qu'ils sont autorisés à arrêter.
 
-8.6) Les policiers ont le droit d'entrer chez vous pour chercher des éléments de preuve si les conditions suivantes sont réunies :
-
-- Ils ont des motifs raisonnables de croire que des éléments de preuve se trouvent chez vous, par exemple, des drogues ou des armes.
-- Ils doivent agir immédiatement de sorte que la preuve ne soit pas perdue ou détruite.
-
-8.7) Les policiers sont également justifiés de pénétrer chez vous dans l'un ou l'autre des buts suivants :
+8.6) Les policiers sont également justifiés de pénétrer chez vous dans l'un ou l'autre des buts suivants :
 
 - Fournir des soins d'urgence à une personne qui est dans votre résidence.
 - Protéger la vie ou assurer la sécurité d'une personne qui est dans votre résidence, s'ils ont des motifs raisonnables de croire qu'il y existe une situation d'urgence où une vie humaine est en danger.
@@ -230,7 +221,7 @@ d) La limite de vitesse en ville est de 80 km/h.
 
 e) La limite de vitesse sur l'autoroute est de 120 km/h.
 
-f) Les vitres doivent être assez claires pour identifier un chauffard.
+f) Les vitres doivent être assez claires pour identifier les occupants du véhicule.
 
 #### **Article 11 - Course-poursuite**
 
@@ -262,7 +253,7 @@ Elles doivent être faites de façon sécuritaire pour prioriser le PIT.
 #### **Article 13 - Prise d’otage**
 
 - La vie de l’otage doit être sauvée en utilisant tous les moyens nécessaires.
-- Si jamais la vie de l’otage, à l'intérieur de la banque, est menacée, la police peut à tout moment tenter un assaut pour le sauver.
+- Si jamais la vie de l’otage est menacée, la police peut à tout moment tenter un assaut pour sauver celui-ci.
 
 
 #### **Article 14 - Corruption**
@@ -274,9 +265,9 @@ Elles doivent être faites de façon sécuritaire pour prioriser le PIT.
 14.3) Pour le renvoi formel d’un policier, un policier doit avoir des preuves valides contre celui-ci. Seul le gouvernement, en dernier recours, peut utiliser de l’information HRP pour renvoyer le policier dans le but de préserver le bon fonctionnement du service de police.
 
 
-#### **Article 15 - Loi Miranda de San Andreas**
+#### **Article 15 - Loi Miranda d'Uprising**
 
-15.1) “Vous êtes en état d'arrestation pour [une raison]. Vous avez le droit de garder le silence. Tout ce que vous direz pourra être retenu contre vous. Vous avez le droit à un avocat.”
+15.1) “Vous êtes en état d'arrestation pour [raison]. Vous avez le droit de garder le silence. Tout ce que vous direz pourra être retenu contre vous. Vous avez le droit à un avocat.”
 
 15.2) La Justice prévoit que;
 
@@ -289,8 +280,7 @@ Elles doivent être faites de façon sécuritaire pour prioriser le PIT.
 
 16.1) Le groupe tactique d’intervention peut seulement être appelé pour des missions spécifiques nécessitant une force de frappe majeure.
 
-Descente sur un point chaud.
-
+- Descente sur un point chaud.
 - Les braquages de banque.
 - Les braquages de bijouterie.
 - Les perquisitions mandatées.
@@ -311,7 +301,7 @@ Descente sur un point chaud.
 
 #### **Article 17 - Port du masque**
 
-Objet servant à dissimuler son identité en cachant son visage.
+Définition: Objet qui dissimule l'identité d'une personne en cachant son visage.
 
 Le port du masque en ville est interdit sauf lors de cas indiqué ici:
 
@@ -319,13 +309,13 @@ Le port du masque en ville est interdit sauf lors de cas indiqué ici:
 - Événements thématiques organisés.
 - Prescrite par un médecin (doit être inscrit dans le rapport médical avec une durée prescrite).
 
-17.2) Votre visage doit être découvert en tout temps SAUF pour les services d’urgences, les militaires en fonction et le GTI.
+17.2) Votre visage doit être découvert en tout temps SAUF pour les militaires en fonction et le GTI.
 
 17.3) Il est permis de se couvrir le visage dans un lieu public à des fins ludiques. Les forces de l’ordre se doivent d’être avisées au préalable.
 
-17.4) Les entrepreneurs dont les employés ne se conforment pas à la loi seront amendés à la hauteur de 500$ par employé fautif. Les rapports seront rédigés par les policiers et c’est un agent de Revenu de San Andreas qui sanctionne les propriétaires d’entreprises. Un refus de paiement se résulte en accusations criminelles à la Cour.
+17.4) Les entrepreneurs dont les employés ne se conforment pas à la loi seront amendés à la hauteur de 500$ par employé fautif. Les rapports seront rédigés par les policiers et c’est un agent de Revenu d'Uprising qui sanctionne les propriétaires d’entreprises. Un refus de paiement se résulte en accusations criminelles à la Cour.
 
-17.5) Lors de la conduite d’une moto, seul un masque permettant d'avoir les yeux dégagés est toléré.
+17.5) Lors de la conduite d’une moto, un citoyen peut avoir un casque ou un masque lorsqu'il est sur sa moto.
 
 17.6) Un individu qui porte un masque est dans l’obligation de s'identifier à la demande d’un agent de la paix.
 
