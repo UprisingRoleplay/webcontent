@@ -2,7 +2,7 @@
 
 #### **Article 1 - Les armes / accessoires**
 
-1.1) Un citoyen détenant un permis de port d'armes (PPA) est autorisé à posséder et avoir sur lui les armes suivantes:
+1.1) Un citoyen est autorisé à posséder et avoir sur lui les armes suivantes:
 - Pistolet SNS
 - Pistolet Léger
 - Pistolet Vintage
@@ -10,26 +10,14 @@
 - Pistolet Lourd
 - Pistolet .50
 
-1.2) Un citoyen ayant en sa possession une arme doit être en mesure de présenter son PPA en tout temps. Dans le cas où le citoyen n'a pas son PPA sur lui, celui-ci aura une amende et l'arme sera saisi.
+1.2) Un policier peut retirer l'arme d'une personne si:
+- Une arme à feu est utilisé lors d'un acte criminel.
 
 1.3) Seul les membres d'un corps policiers sont autorisé à être en possession d'un arme de service. 
 
-1.3) Les policiers doivent avoir suivi leur cours sur les armes à feu afin d'avoir droit à leurs armes de service (Pistolet mk2, Taser, Carabine d’assaut, Fusil à pompe Mk2).
+1.4) Les policiers doivent avoir suivi leur cours sur les armes à feu afin d'avoir droit à leurs armes de service (Pistolet mk2, Taser, Carabine d’assaut, Fusil à pompe Mk2).
 
-1.4) Un policier peut retirer le PPA d'une personne si:
-
-- Le citoyen commet un crime contre la personne.
-- Une arme à feu est utilisé lors d'un acte criminel.
-- Le citoyen est en possession d'une arme illégale et/ou non enregistrée.
-
-Exception :
-Le PPA ne peut être retiré si le citoyen participe à un vol de dépanneur et s'il n'atteint pas à la vie d'une personne.
-
-1.5) Les silencieux sont considéré illégal.
-
-1.6) Un citoyen est dans l'obligation d'enregistrer les armes qu'il possède auprès de l'Ammunation. Dans le cas où un citoyen est en possession d'une arme non enregistré ou que l'arme n'est pas enregistré à son nom, il s'agit d'une possession d'arme illégale.
-
-1.7) L’Ammunation est la seule entreprise autorisée à acheter et vendre toutes les armes et accessoires destinés au public. Elle est également la seule habilitée à fournir aux forces de l’ordre des armes spécifiques réservées à leur usage.
+1.5) L’Ammunation est la seule entreprise autorisée à acheter et vendre toutes les armes et accessoires destinés au public. Elle est également la seule habilitée à fournir aux forces de l’ordre des armes spécifiques réservées à leur usage.
 
 #### **Article 2 - Identification**
 
