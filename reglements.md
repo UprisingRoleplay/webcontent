@@ -1,18 +1,7 @@
----
-title: "Règlements"
-description: "Les règles régissent ce que vous pouvez et ne pouvez pas faire sur Ascendia"
-aside: true
-bottom: true
-toc: true
----
-
 # Aperçu des Règles
-
-::alert{type="warning"}
 Veuillez prendre note, le **propriétaire du compte assume l'entière responsabilité** des actions entreprises par l'intermédiaire de leur compte, indépendamment de la personne qui l'utilise.
-::
 
-### Règles Fondamentales d'Ascendia
+### Règles Fondamentales d'Uprising
 
 #### **1. Conditions d'admission sur le serveur**
 
@@ -20,11 +9,7 @@ Veuillez prendre note, le **propriétaire du compte assume l'entière responsabi
 
 1.2 Aucun âge requis ; cependant, vous devez adopter une attitude mature et avoir une voix mature pour accéder au serveur.
 
-1.3 Microphone
-
-Un microphone de haute qualité et sans filtre est requis. 
-
-Votre voix principale (voice changer interdit) doit être réaliste et comparable à celle d’une vraie personne.
+1.3 Un microphone de haute qualité et sans filtre est requis. Votre voix principale (voice changer interdit) doit être réaliste et comparable à celle d’une vraie personne.
 
 1.4 Il est obligatoire de connaître la langue française afin de rejoindre le serveur.
 
