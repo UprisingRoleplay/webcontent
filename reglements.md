@@ -244,14 +244,3 @@ Avoir de très bonnes raisons RP d’éliminer un personnage
 Postuler un document qui démontre les raisons RP d’éliminer le personnage
 Avoir des preuves matériel (Vidéo, Audio, Image, Autre)
 Sachez que l'administration devra prendre le joueur visé en soutien afin de lui expliquer pourquoi nous procédons à sa mort RP. Ceci ne plaît à aucun joueur, et l'administration ne souhaite commettre aucune erreur dans une situation comme celle-ci.
-
-#### **18. Sanctions**
-
-| 1ère sanction | 2ème sanction	| 3ème sanction |	4ème sanction |	5ème sanction |	6ème sanction	| 7ème sanction |
-|     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| 1 jour	| 2 jours | 3 jours | 7 jours |	14 jours |	30 jours |	90 jours |
-
-18.1 L'administration se réserve le droit de réviser le délai d'une sanction à tout moment. 
-
-18.2 Si vous désirez qu'une scène soit modérée, vous devez signaler celle-ci. En l'absence de signalement, l'administration jugera que vous avez accepté votre scène et n'interviendra pas à moins d'une faute grave. 
-
