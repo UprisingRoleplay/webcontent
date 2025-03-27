@@ -243,3 +243,12 @@ Avoir de très bonnes raisons RP d’éliminer un personnage
 Postuler un document qui démontre les raisons RP d’éliminer le personnage
 Avoir des preuves matériel (Vidéo, Audio, Image, Autre)
 Sachez que l'administration devra prendre le joueur visé en soutien afin de lui expliquer pourquoi nous procédons à sa mort RP. Ceci ne plaît à aucun joueur, et l'administration ne souhaite commettre aucune erreur dans une situation comme celle-ci.
+
+#### **18. Zone sans loi**
+
+SandyShore est considéré comme une zone sans loi. Il est donc permit de :
+- Tir à vue
+- Driveby
+- Voler les effets personnels d'un individus
+
+Les policiers et EMS peuvent s'y rendre à leur risque et péril.
