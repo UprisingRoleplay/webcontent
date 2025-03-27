@@ -72,9 +72,9 @@ Veuillez prendre note, le **propriétaire du compte assume l'entière responsabi
 
 5.8 Il est interdit de streamer l'emplacement des points de drogues ou autre point criminel.
 
-5.9 Le tir à vu est interdit, une scène doit être priorisé en tout temps, mise à part sur la plateforme pétrolière (Oil Rig).
+5.9 Le tir à vu est interdit, une scène doit être priorisé en tout temps, mise à part sur le porte avion et dans la zone sans loi.
 
-5.10 Le drive-by est autorisé uniquement pour l'Oil Rig afin de donner une chance aux attaquants.
+5.10 Le drive-by est autorisé uniquement pour le porte avion et la zone sans loi.
 
 5.11 Il est interdit d'être en possession d'armes policières. Cependant, conformément au règlement 5.3, vous devez demander au policier de déposer ses armes au sol. Vous n'êtes pas autorisé à les ramasser, mais elles ne seront plus en sa possession pendant la scène.
 
@@ -110,7 +110,6 @@ Le but de ceci est simple, pour qu’un serveur fonctionne il doit y avoir des p
 | Dépanneur | 3 | 6 | Non requis |
 | Bijouterie | 6 | 8 | 1 |
 | Banque Fleeca	| 6 | 8 | 1 |
-| Banque Bay City	| 6 | 8 | 1 |
 | Braquage de brinks | 8 | 8 | Interdit/Tir à vue |
 | Banque Paleto	| 8 | 10 | 1 |
 | Banque Pacifique | 12 | 14 | 2 |
