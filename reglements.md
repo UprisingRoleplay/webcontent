@@ -246,7 +246,7 @@ Sachez que l'administration devra prendre le joueur visé en soutien afin de lui
 
 #### **18. Zone sans loi**
 
-SandyShore est considéré comme une zone sans loi. Il est donc permit de :
+La zone rouge à SandyShore est considéré comme une zone sans loi. Il est donc permit de :
 - Tir à vue
 - Driveby
 - Voler les effets personnels d'un individus
