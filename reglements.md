@@ -251,8 +251,8 @@ Sachez que l'administration devra prendre le joueur visé en soutien afin de lui
 - Driveby
 - Voler les effets personnels d'un individus
 
-18.2 Il est interdit de se réfugier dans la zone sans loi pour éviter une scène ou lors d'une poursuite. Cela sera considérer comme du FailRP et sera sanctionné
+18.2 Il est interdit de se réfugier dans la zone sans loi pour éviter une scène ou lors d'une poursuite. Cela sera considéré comme du FailRP et sera sanctionné.
 
-18.3 Il est interdit en tout temps d'ouvrir le feu, de blesser ou encore de tenter de nuire au scène qui se passe à l'extérieur de la zone sans loi lorsque vous êtes à l'intérieur
+18.3 Il est interdit en tout temps d'ouvrir le feu, de blesser ou encore de tenter de nuire au scène qui se passe à l'extérieur de la zone sans loi lorsque vous êtes à l'intérieur.
 
 18.4 Les policiers et EMS peuvent s'y rendre à leur risque et péril.
