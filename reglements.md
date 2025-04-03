@@ -255,4 +255,4 @@ Sachez que l'administration devra prendre le joueur visé en soutien afin de lui
 
 18.3 Il est interdit en tout temps d'ouvrir le feu, de blesser ou encore de tenter de nuire au scène qui se passe à l'extérieur de la zone sans loi lorsque vous êtes à l'intérieur.
 
-18.4 Les policiers et EMS peuvent s'y rendre à leur risque et péril.
+18.4 Les policiers et EMS peuvent s'y rendre à leur risque et péril, mais ne sont pas dans l'obligation d'y aller.
