@@ -9,6 +9,7 @@
 - Pistolet de combat
 - Pistolet Lourd
 - Pistolet .50
+- Fusil de chasse
 
 1.2) Un policier peut retirer l'arme d'une personne si:
 - Une arme à feu est utilisé lors d'un acte criminel.
@@ -408,7 +409,7 @@ Un citoyen est dans le droit de demander l’identité d’un agent. Ce dernier 
 
 22.5) Si un agent de la paix vous prend avec une prise illégale, (et repère votre véhicule à proximité de la zone de pêche ou de chasse) il peut vérifier également l'intérieur de votre véhicule afin de contrôler les prises pêchés et/ou abattues. Dans le cas où vous refusez, le refus d'obtempérer s’appliquera.
 
-22.6) Seul le couteau et le fusil de chasse sont permis lors de la chasse.
+22.6) Seul le couteau et le fusil de chasse sont permis lors de la chasse. Les couteaux à cran d'arrêt ne sont pas autorisé pour la chasse.
 
 22.7) Certains espèces sont considéré comme des espèces en voix d'extinction et donc protégé. Il est interdit de pêcher, de chasser ou d'être en possession des espèces suivantes:
 
