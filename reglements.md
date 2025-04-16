@@ -84,7 +84,7 @@ Veuillez prendre note, le **propriétaire du compte assume l'entière responsabi
 
 5.14 Suite à une guerre de gang, une trève de 2 semaines est obligatoire. 
 
-5.15 Il est primordiale de laisser sortir un joueur de son véhicule avant de commencer à le tirer. Dans le cas contraire, se sera considéré comme du WinRP et sera sanctionné.
+5.15 Il est primordiale de laisser sortir un joueur de son véhicule avant de commencer à le tirer. Dans le cas contraire, se sera considéré comme du WinRP et sera sanctionné. La seule exception est le porte avion. 
 
 #### **6. Corruption**
 
