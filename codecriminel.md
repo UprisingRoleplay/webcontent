@@ -11,14 +11,17 @@
 - Pistolet .50
 - Fusil de chasse
 
-1.2) Un policier peut retirer l'arme d'une personne si:
+1.2) Les armes autorisées peuvent être utilisées à des fins récréatives uniquement dans un centre de tir reconnu.
+
+1.3) Un policier peut retirer l'arme d'une personne si:
 - Une arme à feu est utilisé lors d'un acte criminel.
+- L’arme n’est pas dans un étui sécurisé lors de son transport.
 
-1.3) Seul les membres d'un corps policiers sont autorisé à être en possession d'un arme de service. 
+1.4) Seul les membres d'un corps policiers sont autorisé à être en possession d'un arme de service. 
 
-1.4) Les policiers doivent avoir suivi leur cours sur les armes à feu afin d'avoir droit à leurs armes de service (Pistolet mk2, Taser, Carabine d’assaut, Fusil à pompe Mk2).
+1.5) Les policiers doivent avoir suivi leur cours sur les armes à feu afin d'avoir droit à leurs armes de service (Pistolet mk2, Taser, Carabine d’assaut, Fusil à pompe Mk2).
 
-1.5) L’Ammunation est la seule entreprise autorisée à acheter et vendre toutes les armes et accessoires destinés au public. Elle est également la seule habilitée à fournir aux forces de l’ordre des armes spécifiques réservées à leur usage.
+1.6) L’Ammunation est la seule entreprise autorisée à acheter et vendre toutes les armes et accessoires destinés au public. Elle est également la seule habilitée à fournir aux forces de l’ordre des armes spécifiques réservées à leur usage.
 
 #### **Article 2 - Identification**
 
