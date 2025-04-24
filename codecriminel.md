@@ -111,7 +111,7 @@ Cela signifie que des circonstances suspectes ou une intuition ne suffisent pas.
 - Les agents de police sont habilités à faire le convoi vers la prison fédérale si les gardiens de la prison ne sont pas disponibles.
 - Une personne peut être apportée en prison fédérale si les cellules du poste sont pleines.
 
-6.4) Peu importe le nombre d’avis de recherche, le temps d’incarcération sera comptabilisé pour un maximum de 60 minutes.
+6.4) Peu importe le nombre d’avis de recherche, le temps d’incarcération sera comptabilisé pour un maximum de 180 minutes.
 
 Prendre note que si les avocats ne sont pas présents, le suspect sera jugé comme s’il se représentait seul donc obtenir de 0% à 25%.
 
